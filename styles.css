@@ -73,7 +73,7 @@ a {
 
 i.fab {
     padding: 10px;
-    margin-top: 30px;
+    margin: 30px 5px 0px 0px;
     width: 40px;
     height: 40px;
     color: #fff;
@@ -86,5 +86,4 @@ i.fab {
 #copyright {
     margin: 0;
     padding-top: 40px;
-
 }
